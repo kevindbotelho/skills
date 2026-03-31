@@ -48,6 +48,14 @@ C:\Users\<seu-usuario>\.gemini\antigravity\global_workflows\master-skill.md
 
 No Claude Code e no Cursor, o caminho é diferente — consulte a documentação de cada ferramenta para localizar a pasta de comandos globais.
 
+No **Cursor**, tem um detalhe importante: para aparecer no `/`, organize assim:
+
+```txt
+C:\Users\<seu-usuario>\.cursor\skills\master-skill\SKILL.md
+```
+
+Ou seja, o `master-skill.md` vira uma pasta `master-skill` com o arquivo `SKILL.md` dentro.
+
 > O arquivo `master-skill.md` na raiz deste repo é o backup/referência. O que funciona de verdade é a cópia na pasta correta do agente.
 
 ### 3. Configure o cofre na primeira execução
@@ -160,3 +168,4 @@ Apaga o `.masterskill.json` e permite redefinir o caminho do cofre.
 - [supabase/agent-skills](https://github.com/supabase/agent-skills)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- [render-oss/skills](https://github.com/render-oss/skills)
