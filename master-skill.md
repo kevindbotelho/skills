@@ -88,6 +88,7 @@ antigravity-kit/app-builder/SKILL.md
 antigravity-kit/plan-writing/SKILL.md
 antigravity-kit/intelligent-routing/SKILL.md
 antigravity-kit/parallel-agents/SKILL.md
+antigravity-kit/start-web-app/SKILL.md
 superpowers/brainstorming/SKILL.md
 superpowers/writing-plans/SKILL.md
 superpowers/dispatching-parallel-agents/SKILL.md
@@ -183,7 +184,7 @@ Exiba a lista de grupos com o número de skills de cada um:
   frontend       → 17 skills
   backend        → 12 skills
   banco-de-dados →  2 skills
-  arquitetura    →  8 skills
+  arquitetura    →  9 skills
   qualidade      → 12 skills
   ia             →  5 skills
   dados          →  4 skills
