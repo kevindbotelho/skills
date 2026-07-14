@@ -88,7 +88,7 @@ antigravity-kit/app-builder/SKILL.md
 antigravity-kit/plan-writing/SKILL.md
 antigravity-kit/intelligent-routing/SKILL.md
 antigravity-kit/parallel-agents/SKILL.md
-antigravity-kit/start-web-app/SKILL.md
+antigravity-kit/start-project/SKILL.md
 superpowers/brainstorming/SKILL.md
 superpowers/writing-plans/SKILL.md
 superpowers/dispatching-parallel-agents/SKILL.md
